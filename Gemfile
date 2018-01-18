@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 gem "haml-rails"
 gem "twitter-bootstrap-rails"
 gem "jquery-rails"
+gem "nokogiri", ">= 1.6.7.rc"
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password

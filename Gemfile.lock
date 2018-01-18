@@ -210,6 +210,7 @@ DEPENDENCIES
   haml-rails
   jbuilder (~> 2.5)
   jquery-rails
+  nokogiri (>= 1.6.7.rc)
   pg
   puma (~> 3.7)
   rails (~> 5.1.4)
