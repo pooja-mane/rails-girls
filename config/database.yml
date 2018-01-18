@@ -26,4 +26,4 @@ production:
   adapter: postgres
   username: postgres
   password: postgres
-  database: db/production.sqlite3
+  database: postgres
